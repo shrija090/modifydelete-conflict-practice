@@ -1,2 +1,0 @@
-this is something
-i am learning git and github pr and conflict resolution
